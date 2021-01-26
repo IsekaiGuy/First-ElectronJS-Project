@@ -1,14 +1,14 @@
-  <h2 align="center">Конвертер температуры</h3>
+  <h2 align="center">Temperature converter</h3>
 
 <!-- ABOUT THE PROJECT -->
 ![Alt text](/img/Temp.PNG?raw=true "Temp")
-## О проекте
+## About Project
 <p>
-Приложение - калькулятор температуры из градусов Цельсия в Фаренгейты и обратно. Сделан с использованием фреймворка Electron.
+Application - temperature calculator from Celsius to Fahrenheit and vice versa. Made using Electron framework.
 </p>
 
 <!-- GETTING STARTED -->
-## Запуск приложения
+## Start App
 <div class="highlight highlight-source-shell">
 <pre>npm start</pre>
 </div>
